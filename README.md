@@ -6,7 +6,6 @@ cy0293
 Me
 ## EUID
 11828462
-## Favorite Professor
-Pradeep
+
 ## Favorite Professor
 Dr. Melanie Kneen
